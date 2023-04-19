@@ -1,0 +1,24 @@
+/* img {
+     height: 35px;
+     width: 35px;
+}*/
+
+.movie {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.movie:hover {
+    text-decoration: 2px solid #1877f2 underline;
+}
+
+.favourite {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.favourite:hover {
+    text-decoration: 2px solid #1877f2 underline;
+}
